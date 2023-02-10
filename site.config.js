@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: 'Mao's Blog',
+    title: 'Mao Blog',
     description: 'welcome to mao-blog!',
     theme: 'light' // ['light', 'dark', 'auto']
   },
