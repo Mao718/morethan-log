@@ -3,11 +3,11 @@ const CONFIG = {
   profile: {
     name: 'Mao PoYuan',
     image: '/avatar.svg',  // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: 'frontend developer',
-    bio: 'I develop everything using node.',
+    role: 'Master student in Aritficial Intelligent and Data Science',
+    bio: 'A place sharing my point of view',
     email: 'mao.kyushu@gmail.com',
-    linkedin: 'morethanmin',
-    github: 'morethanmin',
+    linkedin: 'Mao Po Yuan',
+    github: 'Mao718',
     instagram: '',
   },
   projects: [
@@ -18,14 +18,14 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: 'morethan-log',
-    description: 'welcome to morethan-log!',
+    title: 'Mao Blog',
+    description: 'welcome to mao-blog!',
     theme: 'light' // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
   link: 'https://morethan-log-test.vercel.app',
-  since: 2022, // If leave this empty, current year will be used.
+  since: 2023, // If leave this empty, current year will be used.
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: 'https://og-image-mao.vercel.app', // The link to generate OG image, don't end with a slash
   seo: {
