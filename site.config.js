@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: 'https://github.com/morethanmin/morethan-log'
+      name: `Adverseriral Sample`,
+      href: 'https://github.com/Mao718/attack_zoo'
     }
   ],
   // blog setting (required)
